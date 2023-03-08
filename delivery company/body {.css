@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #F5A623;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin-right: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+#hero {
+  background-color: #F5
